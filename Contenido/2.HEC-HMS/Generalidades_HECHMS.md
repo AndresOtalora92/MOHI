@@ -63,7 +63,7 @@ En el siguiente link el lector podrán descargar de manera gratuita el software 
 En la siguiente figura se presentan las principales ventanas que conforman la interface gráfica del software HEC-HMS en su versión 4.11.
 
 <div align="center">
-  <img src="Imagenes/FiguraHECHMS_1.PNG" width="7 00px">
+  <img src="Imagenes/FiguraHECHMS_1.PNG" width="700px">
 </div>
 
 
